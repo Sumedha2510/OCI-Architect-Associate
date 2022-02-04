@@ -1,0 +1,16 @@
+Question: Which statement is true about OCI?
+Answer: An OCI region is a localized geographic area
+
+Question: Which OCI construct protects against failures within an availability domain?
+Answer: Fault Domain
+
+Question: You have subscribed to an OCI region, which has one a single availability domain.
+You want to deploy a highly- available application with two web servers and a 2-Node database.
+How would you place the components to maintain high- availability of the application?
+Answer: Place one server and a DB node in one fault domain, and the second server and DB node in another fault domain
+
+Question: Which statement accurately describes an OCI Region?
+Answer: Each Availability Domain has three Fault Domains
+
+Question: Which statement is true about OCI architecture and its core components?
+Answer: Each availability domain has three fault domains
