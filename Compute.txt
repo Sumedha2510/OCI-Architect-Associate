@@ -1,0 +1,22 @@
+Question: What are the limitations of preemptible Instances? (Choose two)
+Answer:
+They cannot be started, stopped, or rebooted.
+They can be terminated at any time.
+
+Question: Which component needs to be configured for enabling autoscaling?
+Answer: Instance pool
+
+Question: In which scenarios are GPU-based instances useful? (Choose two)
+Answer: 
+They are used for the high performance computing platform.
+They are used to accelerate the applications that run sophisticated algorithms.
+
+Question: Which are the two types of compute Autoscaling? (Choose two)
+Answer: 
+Schedule-based autoscaling
+Metric-based autoscaling 
+
+Question: Which statements are true about burstable instances? (Choose two)
+Answer: 
+They are designed for instances where there is occasional CPU spike.
+They provide a baseline CPU performance.
