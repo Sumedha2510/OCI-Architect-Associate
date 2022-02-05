@@ -1,0 +1,20 @@
+Question: You are managing two applications that consist of multiple compute instances with multiple block volumes. You want to create backups of block volumes efficiently.
+Answer: Group together multiple block volumes into a volume group and create volume group backups
+
+Question: Which statement is true about attaching a volume to multiple instances?
+Answer: It can be attached to up to 8 instances.
+
+Question: Which two statements are true about cloning a block volume? (Choose two)
+Answer: 
+You can create 10 clones if volume is detached.
+You can create one clone if volume is attached. 
+
+Question: Which statement is true about the OCI Block storage service? (Choose two)
+Answer: 
+It can be attached to a compute instance.
+It uses iSCSI to connect to a compute instance.
+
+Question: In which two options can you attach a block volume? (Choose two)
+Answer: 
+PARAVIRTUALIZED
+ISCSI
