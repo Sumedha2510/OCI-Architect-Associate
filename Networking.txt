@@ -1,0 +1,26 @@
+Question: Which statements are true about Virtual Cloud Network (VCN)? (Choose two)
+Answer: 
+A VCN can reside only in a single region.
+A VCN is a software-defined network defined in Oracle data centers.
+
+Question: Which two types of topologies are provided by network visualizer? (Choose two)
+Answer: 
+Virtual Cloud Network Topology
+Regional Network Topology
+
+Question: Which three must be configured for a load balancer to accept incoming traffic? (Choose three)
+Answer: 
+A backend set with at least one backend server
+A listener
+A security list that is open on the listener port
+
+Question: Which resources can be attached to Dynamic Routing Gateways? (Choose three)
+Answer: 
+VCNs
+Site-to-site VPN IPSec Tunnels
+Remote Peering Connections
+
+Question: Which information would you get using the regional network topology? (Choose two)
+Answer: 
+Connectivity of on-premises using FastConnect or VPN
+Interconnectivity of VCNs
