@@ -1,0 +1,19 @@
+Question: You have created a new compartment "apps" to host some production apps and you have created an apps_group and added users to it.
+What would you do ensure the users access to the apps compartment?
+Answer: Add an IAM Policy for apps_group granting access to the apps compartment
+
+Question: You want to make API calls against other OCI Services from your instance without configuring user credentials.
+How would you achieve this?
+Answer: Create Dynamic Group and add a policy
+
+Question: n which two options is Oracle Cloud Infrastructure Budget set? (Choose two)
+Answer: Cost-tracking tags
+        Compartments
+
+Question: Which components are part of OCI Identity and Access Management service? (Choose three)
+Answer: Policies
+        Dynamic Groups
+        Users
+
+Question: What would you use to form Oracle Cloud Infrastructure Identity and Access Management to govern resources in a tenancy?
+Answer: Policies
