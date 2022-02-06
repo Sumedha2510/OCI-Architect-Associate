@@ -1,0 +1,29 @@
+Question: Which three types of database systems are available in Oracle Cloud Infrastructure (OCI)? (Choose three)
+Answer: 
+Exadata DB System
+Bare metal DB systems
+VM DB System
+
+Question: Which two actions can be performed from the OCI Console for an Oracle Autonomous Database? (Choose two)
+Answer: 
+Scale up/down CPU
+Increase storage allocated for database
+
+Question: Which two are the minimum prerequisites to create a DB system? (Choose two)
+Answer: 
+Virtual Cloud Network with default security list
+Public key in OpenSSH format 
+
+Question: Which statement is true about Autonomous Data Warehouse?
+Answer: Data is stored in columnar format.
+
+Question: Which statements are true about Autonomous Transaction Processing? (Choose two)
+Answer: 
+Missing indexes are detected and created.
+Data is stored in row format.
+
+Question: Which three are required for provisioning an Oracle Autonomous Database instance? (Choose three)
+Answer: 
+Database Name 
+Number of CPUs
+Workload Type 
