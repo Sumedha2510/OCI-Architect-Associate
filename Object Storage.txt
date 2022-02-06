@@ -16,6 +16,3 @@ Question: You have created a bucket of ARCHIVE storage type. Which features and 
 Answer: 
 The default time to download an object after restoration is 24 hours
 The minimum retention period for Archive storage is 90 days
-
-Question: 
-Answer: 
