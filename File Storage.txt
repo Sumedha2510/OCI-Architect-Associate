@@ -1,0 +1,21 @@
+Question: Which storage options are available in OCI? (Choose four)
+Answer: 
+Local Storage 
+Archive Storage
+File Storage 
+Object Storage
+
+Question: How many snapshots can be taken per file system?
+Answer: 10000 
+
+Question: Which statements are true about OCI File Storage? (Choose three)
+Answer: 
+It is supported by all major operating systems and hypervisors.
+It organizes documents in a hierarchy of named directories.
+It can be accessed over the network. 
+
+Question: Which of these is true about OCI File Storage service?
+Answer: Hierarchical collection of documents organized into named directories
+
+Question: Which type of file system is used by the file storage?
+Answer: NFSv3
