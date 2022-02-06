@@ -1,0 +1,22 @@
+Question: You want to set up an alarm for CPU usage and disk read for a compute instance, so that you can determine when to launch new instances to handle increased load.
+Which service would you use?
+Answer: Monitoring 
+
+Question: You want to reduce millions of log entries into a small set of log signatures to make it easy to review.
+By using which would you achieve this?
+Answer: Logging Analytics 
+
+Question: You want to aggregate, search, and monitor all log data from your applications and system infrastructure.
+Which service would you use for this?
+Answer: Logging Analytics 
+
+Question: Which statements are true about the Logging service? (Choose two)
+Answer: 
+Analyzes critical diagnostic information that describes how resources are performing and being accessed 
+Single pane of glass for all the logs in a tenancy 
+
+Question: Which types of logs are used by the Logging service? (Choose three)
+Answer: 
+Audit Logs 
+Custom Logs 
+Service Logs 
