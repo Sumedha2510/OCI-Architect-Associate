@@ -1,0 +1,15 @@
+Question: You want to centrally manage the encryption keys and secret credentials that protect your data. What should you use to achieve this?
+Answer: Vault
+
+Question: Your IT team has created a web-based marketing site that needs to be protected against internet threats including Cross-Site Scripting (XSS) and SQL Injection.
+Which OCI security service should they use?
+Answer: Web Application Firewall
+
+Question: You want to add another step of user verification along with password authentication. What should you use to achieve this?
+Answer: Multi-factor Authentication
+
+Question: Which statement is true about Security Zones?
+Answer: They are associated with a compartment
+
+Question: Which key encryption algorithm is NOT supported by the OCI Vault service?
+Answer: JSON Web Algorithm (JWA)
