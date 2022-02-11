@@ -4,19 +4,20 @@ Answer: Lower cost (*)
 
 Question: Database admins and app developers want to run OLTP and OLAP workloads directly from their MySQL database, thus eliminating the need for complex, 
 time-consuming, and expensive data movement and integration with a separate analytics database? Which feature of MySQL database service enables this?
-Heatwave (*)
+Answer: Heatwave (*)
 
 
 Question: Which three encryption algorithms are supported by OCI Vault?
+Answer: 
 ECDSA (*)
 AES (*)
 RSA (*)
  
 Question: Which Oracle Database edition is required to deploy a two-node Oracle RAC DB system?
-Enterprise Edition - Extreme Performance (*)
+Answer: Enterprise Edition - Extreme Performance (*)
 
 Question: Which protocol is used by FastConnect?
-BGP (*)
+Answer: BGP (*)
 
 Question: Which TWO statements are true about the OS Management service?
 It allows you to specify a date and time when a managed instance will be updated. (*)
