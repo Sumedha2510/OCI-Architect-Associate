@@ -1,0 +1,244 @@
+Question: Which block volume performance level is recommended for throughput-intensive workloads with large sequential I/O, such as streaming, log processing,
+and data warehouses?
+Answer: Lower cost (*)
+
+Question: Database admins and app developers want to run OLTP and OLAP workloads directly from their MySQL database, thus eliminating the need for complex, 
+time-consuming, and expensive data movement and integration with a separate analytics database? Which feature of MySQL database service enables this?
+Heatwave (*)
+
+
+Question: Which three encryption algorithms are supported by OCI Vault?
+ECDSA (*)
+AES (*)
+RSA (*)
+ 
+Question: Which Oracle Database edition is required to deploy a two-node Oracle RAC DB system?
+Enterprise Edition - Extreme Performance (*)
+
+Question: Which protocol is used by FastConnect?
+BGP (*)
+
+Question: Which TWO statements are true about the OS Management service?
+It allows you to specify a date and time when a managed instance will be updated. (*)
+If a managed instance is terminated, the OS Management service will automatically remove it from the managed instance list. (*)
+ 
+Question: Which two statements are true about local VCN peering?
+You can use a single DRG for local peering. (*)
+The VCNs can be in different Oracle Cloud Infrastructure tenancies but in the same region. (*)
+ 
+Question: Which four layers of access control are used by the File Storage service?
+Network security (*)
+NFS v.3 Unix security (*)
+Oracle Cloud Infrastructure (OCI) policy (*)
+NFS export option (*)
+ 
+Question: Which Oracle-defined backup policy includes weekly incremental backups that run on Sunday, also includes a full backup that runs yearly during the first part of 
+January, and is retained for five years?
+Silver policy (*)
+ 
+Question: You want a specific set of users, who do not have IAM user credentials, to access a bucket for a duration of 2 days. Which mechanism can help you achive this?
+Pre-authenticated requests (*)
+ 
+Question: What is used to specify the actions that Cloud Guard can take when detectors identify problems?
+Responder (*)
+ 
+Question: Which three security services provide infrastructure protection?
+DdoS Protection (*)
+WAF (*)
+Securtiy lists (*)
+ 
+Question: Which Traffic Management Steering policy distributes DNS traffic to different endpoints based on the location of the end user?
+Geolocation steering (*)
+ 
+Question: Which network security service allows you to separate the VCN's subnet architecture from your application security requirements?
+Network security group (*)
+ 
+Question: Which TWO connectivity options can you use to give your virtual cloud network (VCN) access to the Internet?
+NAT gateway (*)
+Internet gateway (*)
+ 
+Question: What happens to traffic if there is no route rule that matches the network traffic you intend to route outside the VCN?
+It is dropped. (*)
+ 
+Question: Which TWO statements are true about site-to-site VPN?
+It encrypts IP traffic before the packets are transferred from the source to the destination and decrypts the traffic when it arrives. (*)
+It provides a site-to-site IPSec connection between your on-premises network and your virtual cloud network (VCN). (*)
+ 
+Question: Which three other components are emitted along with raw data points or timestamp-value pairs as metrics to the Monitoring service?
+Namespace (*)
+Dimension (*)
+Metadata (*)
+ 
+Question: Which two statements are true about a block volume clone?
+It creates a single point-in-time copy of a volume without having to go through the backup and restore process. (*)
+You can clone a volume group. (*)
+ 
+Question: Which autonomous database type is specialized for developing NoSQL-style applications that use JavaScript Object Notation documents?
+Aunomous JSON Database (*)
+ 
+Question: Which cloud solution in Oracle Cloud Infrastructure lets you index, enrich, aggregate, explore, search, analyze, correlate, visualize, and monitor all log data 
+from your applications and system infrastructure?
+Logging analytics (*)
+ 
+Question: When you create a block volumne, what is its default performance level?
+Balanced (*)
+ 
+Question: Which three statements are true about a master encryption security key protected by software?
+Cryptographic operations are allowed on clients. (*)
+It can be exported from a server. (*)
+It is stored in a server. (*)
+ 
+Question: Examine this policy:
+Allow group GroupMgr to manage volumes in tenancy where request.permission != 'VOLUME_DELETE'
+Which three actions can a user belonging to the GroupMgr group perform?
+Update volumes. (*)
+Create volumes. (*)
+Move volumes. (*)
+ 
+Question: An instance running in a development compartment needs to make API calls to other OCI services. How can you achieve this without configuring user credentials or 
+setting up a configuration file?
+Create a dynamic group with matching rules to include your instance and write a policy for this dynamic group. (*)
+ 
+Question: Which three statements are true about compartments?
+Compartments can be nested. (*)
+You can set a budget on a compartment such that you are notified as soon as the budget is exceeded. (*)
+One compartment can have resources from multiple regions. (*)
+ 
+Question: At which level are retention rules configured?
+Bucket level (*)
+ 
+Question: You want to make a point-in-time snapshot of the data on a block volume. Under which condition can you make a block volume backup?
+When it is attached to an instance or while it is detached (*)
+ 
+Question: Which TWO statements are true about private IP objects?
+You can add a secondary private IP to either the primary VNIC or a secondary VNIC of an instance after it's launched. (*)
+A private IP can have a public IP assigned to it. (*)
+ 
+Question: When triggered, an alarm sends an alarm message to the configured topic. In which service is the topic configured?
+Notification (*)
+ 
+Question: When changing the performance level of boot volumes, which two performance levels can you select?
+High performance (*)
+Balanced (*)
+ 
+Question: Which three components are managed by the customer and not by Oracle in a shared security model of OCI?
+Application (*)
+Accounts and identities (*)
+Data (*)
+ 
+Question: Which type of load balancer distributes traffic based on IP address and destination ports only?
+Layer-4 (*)
+ 
+Question: Which TWO conditions must be met for an instance to communicate directly with the Internet?
+Instance must have a public IP address. (*)
+Instance's VCN must have an Internet gateway. (*)
+ 
+Question: What is the allowable VCN size range?
+/16 through /30 (*)
+ 
+Question: Compartment A is a child compartment of root.
+Compartment B is a child compartment of Compartment A.
+Compartment C is a child compartment of Compartment B.
+You have attached the following policy to Compartment A:
+Allow group NetworkAdmins to manage virtual-network-family in Compartment A.
+For which compartments can a user of the NetwrokAdmin group manage VCNs?
+Compartment A, Compartment B, and Compartment C only (*)
+Question:  
+Which co-managed database service applies the combined power of Exadata and Oracle Cloud Infrastructure while enabling you to meet your organization's data-residency 
+requirements?
+Exadata Cloud@Customer (*)
+ 
+Question: Examine these two policies:
+Allow group GroupAdmins to manage groups in tenancy where all {target.group.name=/A-*/,target.group.name!='A-Admins'}
+Allow group GroupAdmins to inspect groups in tenancy
+Which statement is true?
+GroupAdmins can create, update, or delete any groups whose names start with "A-", except for the A-Admins group. (*)
+ 
+Question: When you enable auto tiering, objects larger than 1 MiB are automatically moved from the Standard tier to which tier?
+Infrequent Access tier (*)
+ 
+Question: Your application or workload includes big data and analytics, media processing, or content management. You require Portable Operating System Interface (POSIX)-
+compliant file system access semantics and concurrently accessible storage. Which storage servce must you use?
+File Storage (*)
+ 
+Question: At which layer of the OSI model does a web application firewall help to filter traffic?
+Application layer (*)
+ 
+Question: You want users of the NetworkAdmin group to manage a cloud network in any compartment of a tenancy. What must you allow the NetworkAdmin group to do?
+Manage virtual-network-family in tenancy. (*)
+For which TWO types of workloads must you use a bare metal compute instance?
+Workloads that require a specific hypervisor (*)
+Performance-sensitive workloads (*)
+ 
+Question: For maximum cost efficiency, when launching compute instances, which capacity type must you select for workloads that run periodically or for short periods of time 
+and that don’t require continuous availability?
+Pre-emptible capacity (*)
+ 
+Question: Which two statements are true about auth tokens?
+They can be used to authenticate third-party APIs. (*)
+Every user can generate up to two auth tokens. (*)
+ 
+Question: Which TWO statements are true about autoscaling?
+An autoscaling configuration can include one or more autoscaling policies. (*)
+Each instance pool can have only one autoscaling configuration. (*)
+ 
+Question: Which policy is automatically applied when you create a cloud account?
+Allow Group Administrator to manage all-resources in tenancy (*)
+ 
+Question: Which gateway allows resources within a VCN to communicate with the Internet but prevents any inbound traffic?
+NAT gateway (*)
+ 
+Question: Which two statements are true about application-based load balancers?
+They support both HTTP and HTTPS. (*)
+They perform content-based routing. (*)
+ 
+Which two statements are true about Object Storage?
+It is a regional service and is not tied to any specific compute instance. (*)
+It supports private access from Oracle Cloud Infrastructure resources in a VCN through a service gateway. (*)
+ 
+Question: Which Object Storage tier would you use for data that you need to access quickly, immediately, and frequently?
+Standard tier (*)
+ 
+Question: Which FOUR types of images can be used in Oracle Cloud Infrastructure?
+Oracle-provided Linux images (*)
+Custom images created from existing images in OCI (*)
+Oracle-provided Windows images (*)
+Prebuilt application images from Oracle available in the OCI Marketplace (*)
+ 
+Question: You want to forbid the creation of public buckets in Object Storage.
+Which OCI security feature can you use to achieve this?
+Security zone and security zone recipe (*)
+ 
+Question: Which OCI networking method must you use to divide your network into multiple VCNs based on departments, with each VCN having direct, private access to the others 
+while avoiding traffic flowing over the Internet or through your on-premises network?
+VCN peering (*)
+ 
+Question: You have two objects in a bucket: ObjectX and ObjectY. ObjectX was last modified 14 months ago and Object Y was last modified 3 months ago. You create a retention 
+rule with a duration of 1 year. Which two statements are true?
+Object X can be modified or deleted immediately. (*)
+Object Y cannot be modified or deleted for the next 9 months. (*)
+ 
+Question: You have enabled versioning for a bucket. What happens when you upload an object with the same name as an existing object?
+The existing object becomes a previous version and the newly uploaded object becomes the latest version. (*)
+ 
+Question: Which two statements are true about NoSQL Cloud Service?
+Throughput capacity is measured in write units and read units. (*)
+It interoperates with NoSQL Database Enterprise edition through a single programmatic interface with no application code modification. (*)
+ 
+Question: Which OCI security feature can you use to ensure that unwanted bots are mitigated while desirable bots are allowed to enter?
+Web application firewall (*)
+ 
+Question: Which two statements are true about cloning a file system?
+File system properties such as compartment, tags, display name, keys, and mount target export information are not copied over from the parent. (*)
+All snapshots that exist in the parent file system are inherited by the clone, up to and including the snapshot that is used as the source of the clone. (*)
+ 
+Question: Which type of logs are emitted by API gateways, events, and Object Storage?
+Service logs (*)
+ 
+Question: Which two statements are true about boot volumes?
+When you launch a virtual machine (VM) or bare metal instance based on a platform image or custom image, a new boot volume for the instance is created in the same compartment. (*)
+When you terminate the instance, you can preserve the boot volume and its data. (*)
+ 
+Question: Which TWO statements are true about security lists?
+The default security list allows TCP traffic on destination port 22 (SSH) from authorized source IP addresses and any source port. (*)
+The default security list does not include a rule to allow ping requests. (*)
