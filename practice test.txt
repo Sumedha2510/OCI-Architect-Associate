@@ -211,7 +211,7 @@ Answer:
 They support both HTTP and HTTPS. 
 They perform content-based routing.
  
-Which two statements are true about Object Storage?
+Question: Which two statements are true about Object Storage?
 Answer: 
 It is a regional service and is not tied to any specific compute instance. 
 It supports private access from Oracle Cloud Infrastructure resources in a VCN through a service gateway. 
