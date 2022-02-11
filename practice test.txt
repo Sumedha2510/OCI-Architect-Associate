@@ -118,7 +118,7 @@ Question: At which level are retention rules configured?
 Answer: Bucket level
  
 Question: You want to make a point-in-time snapshot of the data on a block volume. Under which condition can you make a block volume backup?
-Answer: Answer: When it is attached to an instance or while it is detached
+Answer: When it is attached to an instance or while it is detached
  
 Question: Which TWO statements are true about private IP objects?
 Answer: 
