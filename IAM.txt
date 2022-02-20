@@ -6,7 +6,7 @@ Question: You want to make API calls against other OCI Services from your instan
 How would you achieve this?
 Answer: Create Dynamic Group and add a policy
 
-Question: n which two options is Oracle Cloud Infrastructure Budget set? (Choose two)
+Question: On which two options is Oracle Cloud Infrastructure Budget set? (Choose two)
 Answer: Cost-tracking tags
         Compartments
 
