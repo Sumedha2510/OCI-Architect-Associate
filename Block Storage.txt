@@ -1,4 +1,5 @@
 Question: You are managing two applications that consist of multiple compute instances with multiple block volumes. You want to create backups of block volumes efficiently.
+How would you do this?
 Answer: Group together multiple block volumes into a volume group and create volume group backups
 
 Question: Which statement is true about attaching a volume to multiple instances?
